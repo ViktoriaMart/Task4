@@ -1,0 +1,7 @@
+C:\Users\IT\source\repos\ADO_v1\ADO_v1\bin\Debug\ADO_v1.exe.config
+C:\Users\IT\source\repos\ADO_v1\ADO_v1\bin\Debug\ADO_v1.exe
+C:\Users\IT\source\repos\ADO_v1\ADO_v1\bin\Debug\ADO_v1.pdb
+C:\Users\IT\source\repos\ADO_v1\ADO_v1\obj\Debug\ADO_v1.csprojResolveAssemblyReference.cache
+C:\Users\IT\source\repos\ADO_v1\ADO_v1\obj\Debug\ADO_v1.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ADO_v1\ADO_v1\obj\Debug\ADO_v1.exe
+C:\Users\IT\source\repos\ADO_v1\ADO_v1\obj\Debug\ADO_v1.pdb
